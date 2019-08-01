@@ -14,8 +14,6 @@ public class PrototypeData {
 		this.max = max;
 		this.current = 0;
 		this.prototypes = new IPrototype[max];
-//		for (int i = 0; i < max; i++)
-//			this.prototypes[i] = this.prototype.clone();
 	}
 
 }
